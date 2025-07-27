@@ -1,0 +1,450 @@
+[
+  {
+    "name": "Guyana",
+    "capital": "Georgetown",
+    "currency": "Guyanese dollar",
+    "language": "English",
+    "region": "Americas",
+    "subregion": "South America"
+  },
+  {
+    "name": "Jamaica",
+    "capital": "Kingston",
+    "currency": "Jamaican dollar",
+    "language": "English",
+    "region": "Americas",
+    "subregion": "Caribbean"
+  },
+  {
+    "name": "Belize",
+    "capital": "Belmopan",
+    "currency": "Belize dollar",
+    "language": "Belizean Creole",
+    "region": "Americas",
+    "subregion": "Central America"
+  },
+  {
+    "name": "United States Virgin Islands",
+    "capital": "Charlotte Amalie",
+    "currency": "United States dollar",
+    "language": "English",
+    "region": "Americas",
+    "subregion": "Caribbean"
+  },
+  {
+    "name": "United States",
+    "capital": "Washington, D.C.",
+    "currency": "United States dollar",
+    "language": "English",
+    "region": "Americas",
+    "subregion": "North America"
+  },
+  {
+    "name": "Suriname",
+    "capital": "Paramaribo",
+    "currency": "Surinamese dollar",
+    "language": "Dutch",
+    "region": "Americas",
+    "subregion": "South America"
+  },
+  {
+    "name": "Curaçao",
+    "capital": "Willemstad",
+    "currency": "Netherlands Antillean guilder",
+    "language": "English",
+    "region": "Americas",
+    "subregion": "Caribbean"
+  },
+  {
+    "name": "Ecuador",
+    "capital": "Quito",
+    "currency": "United States dollar",
+    "language": "Spanish",
+    "region": "Americas",
+    "subregion": "South America"
+  },
+  {
+    "name": "Canada",
+    "capital": "Ottawa",
+    "currency": "Canadian dollar",
+    "language": "English",
+    "region": "Americas",
+    "subregion": "North America"
+  },
+  {
+    "name": "Cayman Islands",
+    "capital": "George Town",
+    "currency": "Cayman Islands dollar",
+    "language": "English",
+    "region": "Americas",
+    "subregion": "Caribbean"
+  },
+  {
+    "name": "Martinique",
+    "capital": "Fort-de-France",
+    "currency": "Euro",
+    "language": "French",
+    "region": "Americas",
+    "subregion": "Caribbean"
+  },
+  {
+    "name": "Sint Maarten",
+    "capital": "Philipsburg",
+    "currency": "Netherlands Antillean guilder",
+    "language": "English",
+    "region": "Americas",
+    "subregion": "Caribbean"
+  },
+  {
+    "name": "Colombia",
+    "capital": "Bogotá",
+    "currency": "Colombian peso",
+    "language": "Spanish",
+    "region": "Americas",
+    "subregion": "South America"
+  },
+  {
+    "name": "Cuba",
+    "capital": "Havana",
+    "currency": "Cuban convertible peso",
+    "language": "Spanish",
+    "region": "Americas",
+    "subregion": "Caribbean"
+  },
+  {
+    "name": "Argentina",
+    "capital": "Buenos Aires",
+    "currency": "Argentine peso",
+    "language": "Guaraní",
+    "region": "Americas",
+    "subregion": "South America"
+  },
+  {
+    "name": "Mexico",
+    "capital": "Mexico City",
+    "currency": "Mexican peso",
+    "language": "Spanish",
+    "region": "Americas",
+    "subregion": "North America"
+  },
+  {
+    "name": "Bahamas",
+    "capital": "Nassau",
+    "currency": "Bahamian dollar",
+    "language": "English",
+    "region": "Americas",
+    "subregion": "Caribbean"
+  },
+  {
+    "name": "Guatemala",
+    "capital": "Guatemala City",
+    "currency": "Guatemalan quetzal",
+    "language": "Spanish",
+    "region": "Americas",
+    "subregion": "Central America"
+  },
+  {
+    "name": "Honduras",
+    "capital": "Tegucigalpa",
+    "currency": "Honduran lempira",
+    "language": "Spanish",
+    "region": "Americas",
+    "subregion": "Central America"
+  },
+  {
+    "name": "Antigua and Barbuda",
+    "capital": "Saint John's",
+    "currency": "Eastern Caribbean dollar",
+    "language": "English",
+    "region": "Americas",
+    "subregion": "Caribbean"
+  },
+  {
+    "name": "Anguilla",
+    "capital": "The Valley",
+    "currency": "Eastern Caribbean dollar",
+    "language": "English",
+    "region": "Americas",
+    "subregion": "Caribbean"
+  },
+  {
+    "name": "British Virgin Islands",
+    "capital": "Road Town",
+    "currency": "United States dollar",
+    "language": "English",
+    "region": "Americas",
+    "subregion": "Caribbean"
+  },
+  {
+    "name": "Venezuela",
+    "capital": "Caracas",
+    "currency": "Venezuelan bolívar soberano",
+    "language": "Spanish",
+    "region": "Americas",
+    "subregion": "South America"
+  },
+  {
+    "name": "United States Minor Outlying Islands",
+    "capital": "Washington DC",
+    "currency": "United States dollar",
+    "language": "English",
+    "region": "Americas",
+    "subregion": "North America"
+  },
+  {
+    "name": "Brazil",
+    "capital": "Brasília",
+    "currency": "Brazilian real",
+    "language": "Portuguese",
+    "region": "Americas",
+    "subregion": "South America"
+  },
+  {
+    "name": "Dominica",
+    "capital": "Roseau",
+    "currency": "Eastern Caribbean dollar",
+    "language": "English",
+    "region": "Americas",
+    "subregion": "Caribbean"
+  },
+  {
+    "name": "Bolivia",
+    "capital": "Sucre",
+    "currency": "Bolivian boliviano",
+    "language": "Aymara",
+    "region": "Americas",
+    "subregion": "South America"
+  },
+  {
+    "name": "Saint Pierre and Miquelon",
+    "capital": "Saint-Pierre",
+    "currency": "Euro",
+    "language": "French",
+    "region": "Americas",
+    "subregion": "North America"
+  },
+  {
+    "name": "Grenada",
+    "capital": "St. George's",
+    "currency": "Eastern Caribbean dollar",
+    "language": "English",
+    "region": "Americas",
+    "subregion": "Caribbean"
+  },
+  {
+    "name": "Nicaragua",
+    "capital": "Managua",
+    "currency": "Nicaraguan córdoba",
+    "language": "Spanish",
+    "region": "Americas",
+    "subregion": "Central America"
+  },
+  {
+    "name": "Paraguay",
+    "capital": "Asunción",
+    "currency": "Paraguayan guaraní",
+    "language": "Guaraní",
+    "region": "Americas",
+    "subregion": "South America"
+  },
+  {
+    "name": "Guadeloupe",
+    "capital": "Basse-Terre",
+    "currency": "Euro",
+    "language": "French",
+    "region": "Americas",
+    "subregion": "Caribbean"
+  },
+  {
+    "name": "Chile",
+    "capital": "Santiago",
+    "currency": "Chilean peso",
+    "language": "Spanish",
+    "region": "Americas",
+    "subregion": "South America"
+  },
+  {
+    "name": "Bermuda",
+    "capital": "Hamilton",
+    "currency": "Bermudian dollar",
+    "language": "English",
+    "region": "Americas",
+    "subregion": "North America"
+  },
+  {
+    "name": "Puerto Rico",
+    "capital": "San Juan",
+    "currency": "United States dollar",
+    "language": "English",
+    "region": "Americas",
+    "subregion": "Caribbean"
+  },
+  {
+    "name": "Trinidad and Tobago",
+    "capital": "Port of Spain",
+    "currency": "Trinidad and Tobago dollar",
+    "language": "English",
+    "region": "Americas",
+    "subregion": "Caribbean"
+  },
+  {
+    "name": "Falkland Islands",
+    "capital": "Stanley",
+    "currency": "Falkland Islands pound",
+    "language": "English",
+    "region": "Americas",
+    "subregion": "South America"
+  },
+  {
+    "name": "Montserrat",
+    "capital": "Plymouth",
+    "currency": "Eastern Caribbean dollar",
+    "language": "English",
+    "region": "Americas",
+    "subregion": "Caribbean"
+  },
+  {
+    "name": "Turks and Caicos Islands",
+    "capital": "Cockburn Town",
+    "currency": "United States dollar",
+    "language": "English",
+    "region": "Americas",
+    "subregion": "Caribbean"
+  },
+  {
+    "name": "Costa Rica",
+    "capital": "San José",
+    "currency": "Costa Rican colón",
+    "language": "Spanish",
+    "region": "Americas",
+    "subregion": "Central America"
+  },
+  {
+    "name": "Uruguay",
+    "capital": "Montevideo",
+    "currency": "Uruguayan peso",
+    "language": "Spanish",
+    "region": "Americas",
+    "subregion": "South America"
+  },
+  {
+    "name": "Saint Lucia",
+    "capital": "Castries",
+    "currency": "Eastern Caribbean dollar",
+    "language": "English",
+    "region": "Americas",
+    "subregion": "Caribbean"
+  },
+  {
+    "name": "Haiti",
+    "capital": "Port-au-Prince",
+    "currency": "Haitian gourde",
+    "language": "French",
+    "region": "Americas",
+    "subregion": "Caribbean"
+  },
+  {
+    "name": "Saint Martin",
+    "capital": "Marigot",
+    "currency": "Euro",
+    "language": "French",
+    "region": "Americas",
+    "subregion": "Caribbean"
+  },
+  {
+    "name": "Peru",
+    "capital": "Lima",
+    "currency": "Peruvian sol",
+    "language": "Aymara",
+    "region": "Americas",
+    "subregion": "South America"
+  },
+  {
+    "name": "Panama",
+    "capital": "Panama City",
+    "currency": "Panamanian balboa",
+    "language": "Spanish",
+    "region": "Americas",
+    "subregion": "Central America"
+  },
+  {
+    "name": "Saint Kitts and Nevis",
+    "capital": "Basseterre",
+    "currency": "Eastern Caribbean dollar",
+    "language": "English",
+    "region": "Americas",
+    "subregion": "Caribbean"
+  },
+  {
+    "name": "Caribbean Netherlands",
+    "capital": "Kralendijk",
+    "currency": "United States dollar",
+    "language": "English",
+    "region": "Americas",
+    "subregion": "Caribbean"
+  },
+  {
+    "name": "El Salvador",
+    "capital": "San Salvador",
+    "currency": "United States dollar",
+    "language": "Spanish",
+    "region": "Americas",
+    "subregion": "Central America"
+  },
+  {
+    "name": "Saint Barthélemy",
+    "capital": "Gustavia",
+    "currency": "Euro",
+    "language": "French",
+    "region": "Americas",
+    "subregion": "Caribbean"
+  },
+  {
+    "name": "Aruba",
+    "capital": "Oranjestad",
+    "currency": "Aruban florin",
+    "language": "Dutch",
+    "region": "Americas",
+    "subregion": "Caribbean"
+  },
+  {
+    "name": "French Guiana",
+    "capital": "Cayenne",
+    "currency": "Euro",
+    "language": "French",
+    "region": "Americas",
+    "subregion": "South America"
+  },
+  {
+    "name": "Saint Vincent and the Grenadines",
+    "capital": "Kingstown",
+    "currency": "Eastern Caribbean dollar",
+    "language": "English",
+    "region": "Americas",
+    "subregion": "Caribbean"
+  },
+  {
+    "name": "Barbados",
+    "capital": "Bridgetown",
+    "currency": "Barbadian dollar",
+    "language": "English",
+    "region": "Americas",
+    "subregion": "Caribbean"
+  },
+  {
+    "name": "Greenland",
+    "capital": "Nuuk",
+    "currency": "krone",
+    "language": "Greenlandic",
+    "region": "Americas",
+    "subregion": "North America"
+  },
+  {
+    "name": "Dominican Republic",
+    "capital": "Santo Domingo",
+    "currency": "Dominican peso",
+    "language": "Spanish",
+    "region": "Americas",
+    "subregion": "Caribbean"
+  }
+]
