@@ -5,7 +5,8 @@
     "currency": "Guyanese dollar",
     "language": "English",
     "region": "Americas",
-    "subregion": "South America"
+    "subregion": "South America",
+    "flag": "https://flagcdn.com/w320/gy.png"
   },
   {
     "name": "Jamaica",
@@ -13,7 +14,8 @@
     "currency": "Jamaican dollar",
     "language": "English",
     "region": "Americas",
-    "subregion": "Caribbean"
+    "subregion": "Caribbean",
+    "flag": "https://flagcdn.com/w320/jm.png"
   },
   {
     "name": "Belize",
@@ -21,7 +23,8 @@
     "currency": "Belize dollar",
     "language": "Belizean Creole",
     "region": "Americas",
-    "subregion": "Central America"
+    "subregion": "Central America",
+    "flag": "https://flagcdn.com/w320/bz.png"
   },
   {
     "name": "United States Virgin Islands",
@@ -29,7 +32,8 @@
     "currency": "United States dollar",
     "language": "English",
     "region": "Americas",
-    "subregion": "Caribbean"
+    "subregion": "Caribbean",
+    "flag": "https://flagcdn.com/w320/vi.png"
   },
   {
     "name": "United States",
@@ -37,7 +41,8 @@
     "currency": "United States dollar",
     "language": "English",
     "region": "Americas",
-    "subregion": "North America"
+    "subregion": "North America",
+    "flag": "https://flagcdn.com/w320/us.png"
   },
   {
     "name": "Suriname",
@@ -45,7 +50,8 @@
     "currency": "Surinamese dollar",
     "language": "Dutch",
     "region": "Americas",
-    "subregion": "South America"
+    "subregion": "South America",
+    "flag": "https://flagcdn.com/w320/sr.png"
   },
   {
     "name": "Curaçao",
@@ -53,7 +59,8 @@
     "currency": "Netherlands Antillean guilder",
     "language": "English",
     "region": "Americas",
-    "subregion": "Caribbean"
+    "subregion": "Caribbean",
+    "flag": "https://flagcdn.com/w320/cw.png"
   },
   {
     "name": "Ecuador",
@@ -61,7 +68,8 @@
     "currency": "United States dollar",
     "language": "Spanish",
     "region": "Americas",
-    "subregion": "South America"
+    "subregion": "South America",
+    "flag": "https://flagcdn.com/w320/ec.png"
   },
   {
     "name": "Canada",
@@ -69,7 +77,8 @@
     "currency": "Canadian dollar",
     "language": "English",
     "region": "Americas",
-    "subregion": "North America"
+    "subregion": "North America",
+    "flag": "https://flagcdn.com/w320/ca.png"
   },
   {
     "name": "Cayman Islands",
@@ -77,7 +86,8 @@
     "currency": "Cayman Islands dollar",
     "language": "English",
     "region": "Americas",
-    "subregion": "Caribbean"
+    "subregion": "Caribbean",
+    "flag": "https://flagcdn.com/w320/ky.png"
   },
   {
     "name": "Martinique",
@@ -85,7 +95,8 @@
     "currency": "Euro",
     "language": "French",
     "region": "Americas",
-    "subregion": "Caribbean"
+    "subregion": "Caribbean",
+    "flag": "https://flagcdn.com/w320/mq.png"
   },
   {
     "name": "Sint Maarten",
@@ -93,7 +104,8 @@
     "currency": "Netherlands Antillean guilder",
     "language": "English",
     "region": "Americas",
-    "subregion": "Caribbean"
+    "subregion": "Caribbean",
+    "flag": "https://flagcdn.com/w320/sx.png"
   },
   {
     "name": "Colombia",
@@ -101,7 +113,8 @@
     "currency": "Colombian peso",
     "language": "Spanish",
     "region": "Americas",
-    "subregion": "South America"
+    "subregion": "South America",
+    "flag": "https://flagcdn.com/w320/co.png"
   },
   {
     "name": "Cuba",
@@ -109,7 +122,8 @@
     "currency": "Cuban convertible peso",
     "language": "Spanish",
     "region": "Americas",
-    "subregion": "Caribbean"
+    "subregion": "Caribbean",
+    "flag": "https://flagcdn.com/w320/cu.png"
   },
   {
     "name": "Argentina",
@@ -117,7 +131,8 @@
     "currency": "Argentine peso",
     "language": "Guaraní",
     "region": "Americas",
-    "subregion": "South America"
+    "subregion": "South America",
+    "flag": "https://flagcdn.com/w320/ar.png"
   },
   {
     "name": "Mexico",
@@ -125,7 +140,8 @@
     "currency": "Mexican peso",
     "language": "Spanish",
     "region": "Americas",
-    "subregion": "North America"
+    "subregion": "North America",
+    "flag": "https://flagcdn.com/w320/mx.png"
   },
   {
     "name": "Bahamas",
@@ -133,7 +149,8 @@
     "currency": "Bahamian dollar",
     "language": "English",
     "region": "Americas",
-    "subregion": "Caribbean"
+    "subregion": "Caribbean",
+    "flag": "https://flagcdn.com/w320/bs.png"
   },
   {
     "name": "Guatemala",
@@ -141,7 +158,8 @@
     "currency": "Guatemalan quetzal",
     "language": "Spanish",
     "region": "Americas",
-    "subregion": "Central America"
+    "subregion": "Central America",
+    "flag": "https://flagcdn.com/w320/gt.png"
   },
   {
     "name": "Honduras",
@@ -149,7 +167,8 @@
     "currency": "Honduran lempira",
     "language": "Spanish",
     "region": "Americas",
-    "subregion": "Central America"
+    "subregion": "Central America",
+    "flag": "https://flagcdn.com/w320/hn.png"
   },
   {
     "name": "Antigua and Barbuda",
@@ -157,7 +176,8 @@
     "currency": "Eastern Caribbean dollar",
     "language": "English",
     "region": "Americas",
-    "subregion": "Caribbean"
+    "subregion": "Caribbean",
+    "flag": "https://flagcdn.com/w320/ag.png"
   },
   {
     "name": "Anguilla",
@@ -165,7 +185,8 @@
     "currency": "Eastern Caribbean dollar",
     "language": "English",
     "region": "Americas",
-    "subregion": "Caribbean"
+    "subregion": "Caribbean",
+    "flag": "https://flagcdn.com/w320/ai.png"
   },
   {
     "name": "British Virgin Islands",
@@ -173,7 +194,8 @@
     "currency": "United States dollar",
     "language": "English",
     "region": "Americas",
-    "subregion": "Caribbean"
+    "subregion": "Caribbean",
+    "flag": "https://flagcdn.com/w320/vg.png"
   },
   {
     "name": "Venezuela",
@@ -181,7 +203,8 @@
     "currency": "Venezuelan bolívar soberano",
     "language": "Spanish",
     "region": "Americas",
-    "subregion": "South America"
+    "subregion": "South America",
+    "flag": "https://flagcdn.com/w320/ve.png"
   },
   {
     "name": "United States Minor Outlying Islands",
@@ -189,7 +212,8 @@
     "currency": "United States dollar",
     "language": "English",
     "region": "Americas",
-    "subregion": "North America"
+    "subregion": "North America",
+    "flag": "https://flagcdn.com/w320/um.png"
   },
   {
     "name": "Brazil",
@@ -197,7 +221,8 @@
     "currency": "Brazilian real",
     "language": "Portuguese",
     "region": "Americas",
-    "subregion": "South America"
+    "subregion": "South America",
+    "flag": "https://flagcdn.com/w320/br.png"
   },
   {
     "name": "Dominica",
@@ -205,7 +230,8 @@
     "currency": "Eastern Caribbean dollar",
     "language": "English",
     "region": "Americas",
-    "subregion": "Caribbean"
+    "subregion": "Caribbean",
+    "flag": "https://flagcdn.com/w320/dm.png"
   },
   {
     "name": "Bolivia",
@@ -213,7 +239,8 @@
     "currency": "Bolivian boliviano",
     "language": "Aymara",
     "region": "Americas",
-    "subregion": "South America"
+    "subregion": "South America",
+    "flag": "https://flagcdn.com/w320/bo.png"
   },
   {
     "name": "Saint Pierre and Miquelon",
@@ -221,7 +248,8 @@
     "currency": "Euro",
     "language": "French",
     "region": "Americas",
-    "subregion": "North America"
+    "subregion": "North America",
+    "flag": "https://flagcdn.com/w320/pm.png"
   },
   {
     "name": "Grenada",
@@ -229,7 +257,8 @@
     "currency": "Eastern Caribbean dollar",
     "language": "English",
     "region": "Americas",
-    "subregion": "Caribbean"
+    "subregion": "Caribbean",
+    "flag": "https://flagcdn.com/w320/gd.png"
   },
   {
     "name": "Nicaragua",
@@ -237,7 +266,8 @@
     "currency": "Nicaraguan córdoba",
     "language": "Spanish",
     "region": "Americas",
-    "subregion": "Central America"
+    "subregion": "Central America",
+    "flag": "https://flagcdn.com/w320/ni.png"
   },
   {
     "name": "Paraguay",
@@ -245,7 +275,8 @@
     "currency": "Paraguayan guaraní",
     "language": "Guaraní",
     "region": "Americas",
-    "subregion": "South America"
+    "subregion": "South America",
+    "flag": "https://flagcdn.com/w320/py.png"
   },
   {
     "name": "Guadeloupe",
@@ -253,7 +284,8 @@
     "currency": "Euro",
     "language": "French",
     "region": "Americas",
-    "subregion": "Caribbean"
+    "subregion": "Caribbean",
+    "flag": "https://flagcdn.com/w320/gp.png"
   },
   {
     "name": "Chile",
@@ -261,7 +293,8 @@
     "currency": "Chilean peso",
     "language": "Spanish",
     "region": "Americas",
-    "subregion": "South America"
+    "subregion": "South America",
+    "flag": "https://flagcdn.com/w320/cl.png"
   },
   {
     "name": "Bermuda",
@@ -269,7 +302,8 @@
     "currency": "Bermudian dollar",
     "language": "English",
     "region": "Americas",
-    "subregion": "North America"
+    "subregion": "North America",
+    "flag": "https://flagcdn.com/w320/bm.png"
   },
   {
     "name": "Puerto Rico",
@@ -277,7 +311,8 @@
     "currency": "United States dollar",
     "language": "English",
     "region": "Americas",
-    "subregion": "Caribbean"
+    "subregion": "Caribbean",
+    "flag": "https://flagcdn.com/w320/pr.png"
   },
   {
     "name": "Trinidad and Tobago",
@@ -285,7 +320,8 @@
     "currency": "Trinidad and Tobago dollar",
     "language": "English",
     "region": "Americas",
-    "subregion": "Caribbean"
+    "subregion": "Caribbean",
+    "flag": "https://flagcdn.com/w320/tt.png"
   },
   {
     "name": "Falkland Islands",
@@ -293,7 +329,8 @@
     "currency": "Falkland Islands pound",
     "language": "English",
     "region": "Americas",
-    "subregion": "South America"
+    "subregion": "South America",
+    "flag": "https://flagcdn.com/w320/fk.png"
   },
   {
     "name": "Montserrat",
@@ -301,7 +338,8 @@
     "currency": "Eastern Caribbean dollar",
     "language": "English",
     "region": "Americas",
-    "subregion": "Caribbean"
+    "subregion": "Caribbean",
+    "flag": "https://flagcdn.com/w320/ms.png"
   },
   {
     "name": "Turks and Caicos Islands",
@@ -309,7 +347,8 @@
     "currency": "United States dollar",
     "language": "English",
     "region": "Americas",
-    "subregion": "Caribbean"
+    "subregion": "Caribbean",
+    "flag": "https://flagcdn.com/w320/tc.png"
   },
   {
     "name": "Costa Rica",
@@ -317,7 +356,8 @@
     "currency": "Costa Rican colón",
     "language": "Spanish",
     "region": "Americas",
-    "subregion": "Central America"
+    "subregion": "Central America",
+    "flag": "https://flagcdn.com/w320/cr.png"
   },
   {
     "name": "Uruguay",
@@ -325,7 +365,8 @@
     "currency": "Uruguayan peso",
     "language": "Spanish",
     "region": "Americas",
-    "subregion": "South America"
+    "subregion": "South America",
+    "flag": "https://flagcdn.com/w320/uy.png"
   },
   {
     "name": "Saint Lucia",
@@ -333,7 +374,8 @@
     "currency": "Eastern Caribbean dollar",
     "language": "English",
     "region": "Americas",
-    "subregion": "Caribbean"
+    "subregion": "Caribbean",
+    "flag": "https://flagcdn.com/w320/lc.png"
   },
   {
     "name": "Haiti",
@@ -341,7 +383,8 @@
     "currency": "Haitian gourde",
     "language": "French",
     "region": "Americas",
-    "subregion": "Caribbean"
+    "subregion": "Caribbean",
+    "flag": "https://flagcdn.com/w320/ht.png"
   },
   {
     "name": "Saint Martin",
@@ -349,7 +392,8 @@
     "currency": "Euro",
     "language": "French",
     "region": "Americas",
-    "subregion": "Caribbean"
+    "subregion": "Caribbean",
+    "flag": "https://flagcdn.com/w320/mf.png"
   },
   {
     "name": "Peru",
@@ -357,7 +401,8 @@
     "currency": "Peruvian sol",
     "language": "Aymara",
     "region": "Americas",
-    "subregion": "South America"
+    "subregion": "South America",
+    "flag": "https://flagcdn.com/w320/pe.png"
   },
   {
     "name": "Panama",
@@ -365,7 +410,8 @@
     "currency": "Panamanian balboa",
     "language": "Spanish",
     "region": "Americas",
-    "subregion": "Central America"
+    "subregion": "Central America",
+    "flag": "https://flagcdn.com/w320/pa.png"
   },
   {
     "name": "Saint Kitts and Nevis",
@@ -373,7 +419,8 @@
     "currency": "Eastern Caribbean dollar",
     "language": "English",
     "region": "Americas",
-    "subregion": "Caribbean"
+    "subregion": "Caribbean",
+    "flag": "https://flagcdn.com/w320/kn.png"
   },
   {
     "name": "Caribbean Netherlands",
@@ -381,7 +428,8 @@
     "currency": "United States dollar",
     "language": "English",
     "region": "Americas",
-    "subregion": "Caribbean"
+    "subregion": "Caribbean",
+    "flag": "https://flagcdn.com/w320/bq.png"
   },
   {
     "name": "El Salvador",
@@ -389,7 +437,8 @@
     "currency": "United States dollar",
     "language": "Spanish",
     "region": "Americas",
-    "subregion": "Central America"
+    "subregion": "Central America",
+    "flag": "https://flagcdn.com/w320/sv.png"
   },
   {
     "name": "Saint Barthélemy",
@@ -397,7 +446,8 @@
     "currency": "Euro",
     "language": "French",
     "region": "Americas",
-    "subregion": "Caribbean"
+    "subregion": "Caribbean",
+    "flag": "https://flagcdn.com/w320/bl.png"
   },
   {
     "name": "Aruba",
@@ -405,7 +455,8 @@
     "currency": "Aruban florin",
     "language": "Dutch",
     "region": "Americas",
-    "subregion": "Caribbean"
+    "subregion": "Caribbean",
+    "flag": "https://flagcdn.com/w320/aw.png"
   },
   {
     "name": "French Guiana",
@@ -413,7 +464,8 @@
     "currency": "Euro",
     "language": "French",
     "region": "Americas",
-    "subregion": "South America"
+    "subregion": "South America",
+    "flag": "https://flagcdn.com/w320/gf.png"
   },
   {
     "name": "Saint Vincent and the Grenadines",
@@ -421,7 +473,8 @@
     "currency": "Eastern Caribbean dollar",
     "language": "English",
     "region": "Americas",
-    "subregion": "Caribbean"
+    "subregion": "Caribbean",
+    "flag": "https://flagcdn.com/w320/vc.png"
   },
   {
     "name": "Barbados",
@@ -429,7 +482,8 @@
     "currency": "Barbadian dollar",
     "language": "English",
     "region": "Americas",
-    "subregion": "Caribbean"
+    "subregion": "Caribbean",
+    "flag": "https://flagcdn.com/w320/bb.png"
   },
   {
     "name": "Greenland",
@@ -437,7 +491,8 @@
     "currency": "krone",
     "language": "Greenlandic",
     "region": "Americas",
-    "subregion": "North America"
+    "subregion": "North America",
+    "flag": "https://flagcdn.com/w320/gl.png"
   },
   {
     "name": "Dominican Republic",
@@ -445,6 +500,7 @@
     "currency": "Dominican peso",
     "language": "Spanish",
     "region": "Americas",
-    "subregion": "Caribbean"
+    "subregion": "Caribbean",
+    "flag": "https://flagcdn.com/w320/do.png"
   }
 ]

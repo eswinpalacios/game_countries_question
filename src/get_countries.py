@@ -5,7 +5,7 @@ from typing import List, Dict, Any
 import requests
 
 # Constants
-COUNTRIES_API = "https://restcountries.com/v3.1/all?fields=name,capital,currencies,languages,region,subregion"
+COUNTRIES_API = "https://restcountries.com/v3.1/all?fields=name,capital,currencies,languages,region,subregion,cca2"
 OUTPUT_DIR = os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))), "source")
 OUTPUT_FILE = os.path.join(OUTPUT_DIR, "countries.json")
 
@@ -36,13 +36,15 @@ def filter_american_countries(countries_data: List[Dict[str, Any]]) -> List[Dict
 
 def process_country_data(country_data: Dict[str, Any]) -> Dict[str, str]:
     """Process raw country data to extract required fields."""
+    country_code = country_data.get("cca2", "").lower()
     return {
         "name": country_data.get("name", {}).get("common", ""),
         "capital": country_data.get("capital", [""])[0] if country_data.get("capital") else "",
         "currency": next(iter(country_data.get("currencies", {}).values()), {}).get("name", ""),
         "language": next(iter(country_data.get("languages", {}).values()), ""),
         "region": country_data.get("region", ""),
-        "subregion": country_data.get("subregion", "")
+        "subregion": country_data.get("subregion", ""),
+        "flag": f"https://flagcdn.com/w320/{country_code}.png"
     }
 
 def save_countries_data(countries: List[Dict[str, str]]) -> None:
