@@ -18,7 +18,7 @@ The program is a web application that allows users to answer questions about cou
 - CSS
 - JavaScript
 
-The program is in src directory, a new folder called web will be created.
+The program is in root directory.
 
 ## Questions
 
@@ -28,6 +28,7 @@ The questions are:
 - What is the language of the country?
 - What is the region of the country?
 - What is the subregion of the country?
+- What is the flag of the country?
 
 ## Gameplay
 

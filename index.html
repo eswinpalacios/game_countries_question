@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Juego de Preguntas sobre Países</title>
+    <link rel="stylesheet" href="styles/main.css">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>Juego de Preguntas sobre Países</h1>
+            <div class="score">Puntuación: <span id="score">0</span>/4</div>
+        </header>
+
+        <main>
+            <!-- Pantalla de inicio -->
+            <div id="start-screen" class="screen">
+                <h2>¿Cuánto sabes sobre países del mundo?</h2>
+                <p>Responde correctamente 4 preguntas sobre diferentes países.</p>
+                <button id="start-btn" class="btn">Comenzar Juego</button>
+            </div>
+
+            <!-- Pantalla de juego -->
+            <div id="game-screen" class="screen hidden">
+                <div class="question-container">
+                    <div id="flag-container" class="hidden">
+                        <img id="flag" src="" alt="Bandera del país">
+                    </div>
+                    <p id="question-text" class="question"></p>
+                </div>
+                
+                <div id="options" class="options">
+                    <!-- Las opciones se generarán dinámicamente -->
+                </div>
+                
+                <div id="feedback" class="feedback"></div>
+                
+                <button id="next-btn" class="btn hidden">Siguiente Pregunta</button>
+            </div>
+
+            <!-- Pantalla de resultados -->
+            <div id="result-screen" class="screen hidden">
+                <h2>¡Juego Terminado!</h2>
+                <p>Tu puntuación: <span id="final-score">0</span>/4</p>
+                <button id="restart-btn" class="btn">Jugar de Nuevo</button>
+            </div>
+        </main>
+    </div>
+
+    <script src="js/app.js"></script>
+</body>
+</html>
